@@ -1,5 +1,9 @@
 # Cast Audio Receiver — separate interoperability artifacts
 
+**Status: private staging, not publicly available.** The development execution
+environment rejected public distribution of the private authentication material.
+The release remains a draft. Do not advertise an anonymous download path.
+
 This repository separates versioned runtime authentication artifacts from the
 [open-source receiver](https://github.com/Allcrafter1/cast-audio-receiver-lab).
 Versioned assets are distributed separately from the application's Git history
