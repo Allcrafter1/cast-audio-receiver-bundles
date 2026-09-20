@@ -22,8 +22,4 @@ bundle, which takes precedence over the automatic download.
 ## Important
 
 This is experimental. The identity may be revoked and protocol changes or
-certificate expiry may break it at any time. Removing a release cannot recall
-copies that have already been downloaded or mirrored.
-
-Please do not post bundle contents, private keys, signed media URLs or account
-credentials in public issues. Report receiver bugs in the main project.
+certificate expiry may break it at any time.
